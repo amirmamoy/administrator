@@ -20,6 +20,8 @@ sudo usermod -aG sudo user
 - **-aG** untuk menambahkan pengguna ke grup tanpa menghapusnya dari grup lainny
 
 - **sudo** untuk memberikan akses administrator ke user tersebut agar dapat menjalankan sudo
+<img src="/images/usermod.png" width="600">
+
 
 **password untuk user**
 ```bash
@@ -28,4 +30,5 @@ sudo passwd user
 - **passwd** untuk mengatur password pengguna 
 
 - **user** adalah pengguna yang dimaksud atau yang akan di ganti password nya
-<img src="IMG.jpg" alt="hasil berikut" width="600">
+
+<img src="images/pass.png" width="600">
