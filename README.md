@@ -5,5 +5,6 @@ administrator server
 ```bash
 sudo useradd -m user
 ```
-• **useradd**: menambahkan user baru•
+• **useradd**: menambahkan user baru
+
 • **-m**: untuk membuat direktori home untuk pengguna baru
