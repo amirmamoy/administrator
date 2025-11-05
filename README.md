@@ -18,3 +18,11 @@ sudo usermod -aG sudo user
 • **-aG** : untuk menambahkan pengguna ke grup tanpa menghapusnya dari grup lainny
 
 • **sudo** : untuk memberikan akses administrator ke user tersebut agar dapat menjalankan sudo
+
+**password untuk user**
+```bash
+sudo passwd user
+```
+• **passwd** untuk mengatur password pengguna 
+
+• **user** adalah pengguna yang dimaksud atau yang akan di ganti password nya
